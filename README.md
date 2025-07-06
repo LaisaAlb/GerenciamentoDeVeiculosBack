@@ -17,7 +17,7 @@ Esta é a API responsável pelo backend do sistema de gerenciamento de veículos
 
 1. **Clone o repositório:**
 
-```bash
+bash
 git clone https://github.com/LaisaAlb/GerenciamentoDeVeiculosBack.git
 Instale as dependências:
 
